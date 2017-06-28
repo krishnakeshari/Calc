@@ -1,7 +1,7 @@
 Calculator App
 ===================================
 
-This is a Calculator App which performs 4 basic mathematical operatoions(addition,subtraction,multiplication and division).
+This is a Calculator App which performs 4 basic mathematical operations(addition,subtraction,multiplication and division).
 
 Pre-requisites
 --------------
